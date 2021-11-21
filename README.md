@@ -4,4 +4,4 @@
 
 ### 2. Analysis and Challenges:
 [Kickstater_Challenge](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Kickstater_Challenge.xlsx)
-![Theater_Outcomes_vs_Launch](C:/Users/mjavi/OneDrive/Documents/UCSD - Data Science and Visualization Bootcamp/Module 1/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
