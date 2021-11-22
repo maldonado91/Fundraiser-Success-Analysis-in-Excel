@@ -5,7 +5,6 @@
 ### 2. Analysis and Challenges:
 ##### The dataset needed to be formatted prior to any analysis. I added the 'year' column to the very end so I can use it inside of a pivot table. At that point, the dataset was complete and I could create a pivot table to summarize my data. In order to view theater outcomes by date, I dragged months into rows, outcomes incolumns, and count of outcomes into values. This allowed me to visualize this information as a line chart. The last piece was to filter the visual to only see the theater parent category. See visual
 ![Theater_Outcomes_vs_Launch](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
-[Kickstater_Challenge](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Kickstater_Challenge.xlsx)
 ##### The outcomes based on goals were populated via formulas. I converted the information into a table and graphed it as a line chart. See visual
 ![Outcomes_vs_Goals](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Resources/Outcomes_vs_Goals.png)
 ##### Any formatting, formmulas, or pivot tables can be found in this [file](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Kickstater_Challenge.xlsx)
@@ -19,8 +18,8 @@
 ##### What can you conclude about the Outcomes based on Goals?
     -Outside of very low goals (Less Than $1,000), plays with goals between $35,000 to $40,000 and $40,000 to $45,000 have the highest success rate
 
-*What are some limitations of this dataset?
+##### What are some limitations of this dataset?
     -We only have two fields to break data down into smaller groups (parent category and subcategory). More categories can help drill down further into the dataset.
 
-*What are some other possible tables and/or graphs that we could create?
+##### What are some other possible tables and/or graphs that we could create?
     -I thought a Histogram would be helpful to look at Goal vs Number Successful since most successful campaigns have a goal of under $20,000
