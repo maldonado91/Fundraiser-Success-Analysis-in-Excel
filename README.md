@@ -6,7 +6,7 @@
 ##### The dataset needed to be formatted prior to any analysis. I added the 'year' column to the very end so I can use it inside of a pivot table. At that point, the dataset was complete and I could create a pivot table to summarize my data. In order to view theater outcomes by date, I dragged months into rows, outcomes incolumns, and count of outcomes into values. This allowed me to visualize this information as a line chart. The last piece was to filter the visual to only see the theater parent category. See visual
 ![Theater_Outcomes_vs_Launch](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ##### The outcomes based on goals were populated via formulas. I converted the information into a table and graphed it as a line chart. See visual
-![Outcomes_vs_Goals](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Resources/Outcomes_by_Goals_Range.png)
 ##### Any formatting, formmulas, or pivot tables can be found in this [file](https://github.com/maldonado91/Fundraiser-Success-Analysis-in-Excel/blob/main/Kickstater_Challenge.xlsx)
 ##### The biggest challenges were in the graping piece of outcomes vs goals. I could not get the graph to display properly. After some research/trial and error, I realized I was hilghiting the entire table versus just the columns I was interested in graphing (Goal, Percentage Successful, Percentage Failed, Percentage Canceled).
 
